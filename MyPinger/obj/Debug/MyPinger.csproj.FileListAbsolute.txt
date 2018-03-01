@@ -1,0 +1,9 @@
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\bin\Debug\MyPinger.exe.config
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\bin\Debug\MyPinger.exe
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\bin\Debug\MyPinger.pdb
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\obj\Debug\MyPinger.FormMain.resources
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\obj\Debug\MyPinger.Properties.Resources.resources
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\obj\Debug\MyPinger.csproj.GenerateResource.Cache
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\obj\Debug\MyPinger.exe
+d:\библиотеки\documents\visual studio 2015\Projects\MyPinger\MyPinger\obj\Debug\MyPinger.pdb
+D:\Библиотеки\Documents\Visual Studio 2015\Projects\MyPinger\MyPinger\obj\Debug\MyPinger.csprojResolveAssemblyReference.cache
